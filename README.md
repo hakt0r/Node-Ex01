@@ -25,7 +25,7 @@
     - 3. 4. List the contents of the '/etc' folder
 
   - 4. Child Processes
-    - 4. 1. Use child_process.exec to run the following
+    - 4. 1. Use child_process.execSync to run the following
             command: 'echo hi', and print the output.
-    - 4. 2. Use exec to run the command 'cat /proc/cpuinfo'
+    - 4. 2. Use execSync to run the command 'cat /proc/cpuinfo'
             and print the output.
